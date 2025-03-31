@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really love Baja Blast
-- 👀 I Deepfaked the Queen of England Once
+- 👀 I Deepfaked the Queen of England Once Click the image to see!
 <p align="center">
   <a href="https://www.youtube.com/watch?v=swO7Cup2ag4" target="_blank">
     <img src="https://img.youtube.com/vi/swO7Cup2ag4/0.jpg" alt="Watch the demo" width="500">
