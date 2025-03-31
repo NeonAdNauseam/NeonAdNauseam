@@ -1,4 +1,4 @@
-#NeonArceuthobium
+- 👋 Hi, I’m @NeonArceuthobium
 - 👀 I’m interested in Video Games, Clean Energy, Lead Poisoning
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on Anything!
