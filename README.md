@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really love Baja Blast
-[https://BajaBlast.site](https://BajaBlast.site)
+# https://BajaBlast.site
 
 <p align="center">
   <img src="https://ssb.wiki.gallery/images/thumb/5/5b/MarioFairSSBM.gif/250px-MarioFairSSBM.gif" alt="Mario Fair" width="250">
